@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     fontFamily: {
       primary: ["Raleway", "sans-serif"],
-      seondary: ["Playfair Display", "serif"],
+      secondary: ["Playfair Display", "serif"],
     },
     colors: {
       grey: "#e7e7e5",
